@@ -1,4 +1,7 @@
-# 米哈游启动器版本历史 HoYoPlay Update Log
+## v1.12.0.322
+### 下载 Download
+[国服 CN](CN/1.12.0.322.md) | [国际服 Global](Global/1.12.0.322.md) | [渠道服 Channel](Channel/1.12.0.322.md)
+
 
 ## v1.12.0.303
 ### 更新时间 Update Time
