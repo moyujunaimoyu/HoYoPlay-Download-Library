@@ -2,7 +2,7 @@
 **[米哈游启动器官网](https://launcher.mihoyo.com) | [HoYoPlay Official Website](https://hoyoplay.hoyoverse.com)**
 <img alt="827ceda690221362a7f9ec94f587e393_5157197641911229478" src="https://github.com/user-attachments/assets/19246c59-d486-465a-bfea-95b4277f6591">
 
-当前最新正式版 Latest Release version：`1.12.0.303`
+当前最新正式版 Latest Release version：`1.12.0.322`
 
 [查看更新日志 View Update Log](Update_Log.md)
 
