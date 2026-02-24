@@ -197,6 +197,25 @@ If you encounter problems during the update, please head to the official site to
 ### 下载 Download
 [国服 CN](CN/1.4.5.222.md) | [国际服 Global](Global/1.4.5.222.md) | [渠道服 Channel](Channel/1.4.5.222.md)
 
+## v1.4.2.199
+### 更新时间 Update Time
+2025-01-06
+### 更新内容 Update Details
+<details>
+
+1、新增了网络诊断工具。当您遇到下载等相关问题时，可以点击“设置-工具-问题诊断工具”，进行自助问题排查。
+
+2、修复了米哈游启动器的部分已知问题。
+
+1.Adds a network diagnostic tool. When you encounter downloading and other related problems, you can click "Settings > Tools > Performance Diagnostic Tool" for self-troubleshooting.
+
+2.Fixes some known issues in HoYoPlay.
+
+</details>
+
+### 下载 Download
+[国服 CN](CN/1.4.2.199.md) | [国际服 Global](Global/1.4.2.199.md) | [渠道服 Channel](Channel/1.4.2.199.md)
+
 ## v1.3.3.182
 ### 更新时间 Update Time
 2024-11-25
