@@ -1,3 +1,69 @@
+## v1.14.2.345
+### 更新时间 Update Time
+2026-03-30
+### 更新内容 Update Details
+<details>
+
+【体验优化】
+- 优化下载与更新过程中的错误提示。
+- 优化启动器安装及卸载流程。
+- 优化启动器获取及更新游戏逻辑。
+- 优化卸载游戏失败时的处理逻辑。
+
+【问题修复】
+- 修复部分场景下启动器背景图加载失败的问题。
+- 修复部分场景下预下载/更新按钮显示异常问题。
+- 修复部分场景下游戏状态显示不正确的问题。
+- 修复部分特殊场景下启动器崩溃的问题。
+- 修复其他若干已知问题。
+
+[Experience Optimizations]
+- Improved error message prompts during the download and update process.
+- Optimized launcher installation and uninstallation processes.
+- Optimized the launcher's logic for retrieving and updating games.
+- Optimized the logic for processing failed game uninstallations.
+
+[Bug Fixes]
+- Fixed an issue where the launcher's background image failed to load in certain scenarios.
+- Fixed an issue where the pre-installation or update button displayed incorrectly in certain scenarios.
+- Fixed an issue where the game status was incorrectly displayed in certain scenarios.
+- Fixed the HoYoPlay crash issue in certain special scenarios.
+- Fixed several other known issues.
+
+</details>
+
+### 下载 Download
+[国服 CN](CN/1.14.2.345.md) | [国际服 Global](Global/1.14.2.345.md) | [渠道服 Channel](Channel/1.14.2.345.md)
+
+## v1.13.3.334
+**Note: This version was only released on `Genshin Impact Google Play Launcher`.**
+
+### 更新内容 Update Details
+<details>
+
+【体验优化】
+- 优化下载与更新过程中的错误提示。
+
+【问题修复】
+- 修复部分场景下启动器背景图加载失败的问题。
+- 修复部分场景下预下载/更新按钮显示异常问题。
+- 修复部分特殊场景下启动器崩溃的问题。
+- 修复其他若干已知问题。
+
+[Experience Optimizations]
+- Improved error message prompts during the download and update process.
+
+[Bug Fixes]
+- Fixed an issue where the launcher's background image failed to load in certain scenarios.
+- Fixed an issue where the pre-installation or update button displayed incorrectly in certain scenarios.
+- Fixed the HoYoPlay crash issue in certain special scenarios.
+- Fixed several other known issues.
+
+</details>
+
+### 下载 Download
+[渠道服 Channel](Channel/1.13.3.334.md)
+
 ## v1.12.0.322
 ### 下载 Download
 [国服 CN](CN/1.12.0.322.md) | [国际服 Global](Global/1.12.0.322.md) | [渠道服 Channel](Channel/1.12.0.322.md)
