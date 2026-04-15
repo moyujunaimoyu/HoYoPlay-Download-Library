@@ -1,3 +1,32 @@
+## v1.15.2.359
+### 更新时间 Update Time
+
+### 更新内容 Update Details
+<details>
+
+【体验优化】
+- 优化启动器聚合页布局。
+- 优化下载与更新模式，提升了稳定性。
+【问题修复】
+- 修复插件下载可能导致启动器崩溃。
+- 修复最小化状态下可能阻止电脑休眠。
+- 修复其他若干已知问题。
+
+[Experience Optimizations]
+- Optimized the launcher dashboard layout.
+- Improved download and update modes to enhance stability.
+
+[Bug Fixes]
+- Fixed an issue where plugin downloads could cause the launcher to crash.
+- Fixed an issue where the launcher could prevent the computer from entering sleep mode when minimized.
+- Fixed several other known issues.
+
+
+</details>
+
+### 下载 Download
+[国服 CN](CN/1.15.2.359.md) | [国际服 Global](Global/1.15.2.359.md) | [渠道服 Channel](Channel/1.15.2.359.md)
+
 ## v1.14.2.345
 ### 更新时间 Update Time
 2026-03-30
