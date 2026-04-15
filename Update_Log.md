@@ -7,6 +7,7 @@
 【体验优化】
 - 优化启动器聚合页布局。
 - 优化下载与更新模式，提升了稳定性。
+
 【问题修复】
 - 修复插件下载可能导致启动器崩溃。
 - 修复最小化状态下可能阻止电脑休眠。
@@ -20,7 +21,6 @@
 - Fixed an issue where plugin downloads could cause the launcher to crash.
 - Fixed an issue where the launcher could prevent the computer from entering sleep mode when minimized.
 - Fixed several other known issues.
-
 
 </details>
 
