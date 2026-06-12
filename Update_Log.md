@@ -1,3 +1,22 @@
+## v1.16.1.364
+### 更新时间 Update Time
+2026-06-12
+### 更新内容 Update Details
+<details>
+
+【体验优化】
+- 新增一键复制设备信息功能
+- 优化问题诊断工具部分检测场景
+
+[Experience Optimizations]
+- Added one-click copying of device information.
+- Optimized certain detection scenarios in the diagnostic tool.
+
+</details>
+
+### 下载 Download
+[国服 CN](CN/1.16.1.364.md) | [国际服 Global](Global/1.16.1.364.md) | [渠道服 Channel](Channel/1.16.1.364.md)
+
 ## v1.15.2.359
 ### 更新时间 Update Time
 2026-05-15
