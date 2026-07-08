@@ -1,3 +1,26 @@
+## v1.17.0.376
+### 更新时间 Update Time
+
+### 更新内容 Update Details
+<details>
+
+【体验优化】
+- 优化部分玩家下载/更新游戏长时间处于“等待中”的问题。
+
+【问题修复】
+- 修复部分可能导致启动器黑屏的问题。
+
+[Experience Optimizations]
+- Optimized an issue where some players experienced prolonged "Waiting" status during game download/update.
+
+[Bug Fixes]
+- Fixed an issue where the launcher displayed a black screen in certain cases.
+
+</details>
+
+### 下载 Download
+[国服 CN](CN/1.17.0.376.md) | [国际服 Global](Global/1.17.0.376.md) | [渠道服 Channel](Channel/1.17.0.376.md)
+
 ## v1.16.1.364
 ### 更新时间 Update Time
 2026-06-12
