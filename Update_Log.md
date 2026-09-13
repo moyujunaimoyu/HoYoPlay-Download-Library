@@ -1,3 +1,28 @@
+## v1.18.0.380
+### 更新时间 Update Time
+2026-09-04
+### 更新内容 Update Details
+<details>
+
+【体验优化】
+- 优化部分玩家下载/更新游戏长时间处于“等待中”的问题。
+
+【问题修复】
+- 修复部分可能导致启动器黑屏的问题。
+- 修复部分场景下的启动器崩溃问题。
+
+[Experience Optimizations]
+- Optimized an issue where some players experienced prolonged "Waiting" status during game download/update.
+
+[Bug Fixes]
+- Fixed an issue where the launcher displayed a black screen in certain cases.
+- Fixed the HoYoPlay crash issue in certain scenarios.
+
+</details>
+
+### 下载 Download
+[国服 CN](CN/1.18.0.380.md) | [国际服 Global](Global/1.18.0.380.md) | [渠道服 Channel](Channel/1.18.0.380.md)
+
 ## v1.17.0.376
 ### 更新时间 Update Time
 
