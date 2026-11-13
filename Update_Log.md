@@ -1,3 +1,25 @@
+## v1.19.0.382
+### 更新模式 Update Mode
+**安装以下任一游戏后才推送此版本：  
+This version is only pushed if any of the following games is installed:**
+- 崩坏3 Honkai Impact 3rd
+- 原神 Genshin Impact
+- 绝区零 Zenless Zone Zero
+
+### 更新内容 Update Details
+<details>
+
+【问题修复】
+- 修复部分场景下的启动器展示异常问题。
+
+[Bug Fixes]
+- Fixed the HoYoPlay display issue in certain scenarios.
+
+</details>
+
+### 下载 Download
+[国服 CN](CN/1.19.0.382.md) | [国际服 Global](Global/1.19.0.382.md) | [渠道服 Channel](Channel/1.19.0.382.md)
+
 ## v1.18.0.380
 ### 更新时间 Update Time
 2026-09-04
@@ -24,7 +46,10 @@
 [国服 CN](CN/1.18.0.380.md) | [国际服 Global](Global/1.18.0.380.md) | [渠道服 Channel](Channel/1.18.0.380.md)
 
 ## v1.17.0.376
-### 更新时间 Update Time
+### 更新模式 Update Mode
+**安装以下任一游戏后才推送此版本：  
+This version is only pushed if any of the following games is installed:**
+- 原神 Genshin Impact
 
 ### 更新内容 Update Details
 <details>
@@ -132,7 +157,9 @@
 [国服 CN](CN/1.14.2.345.md) | [国际服 Global](Global/1.14.2.345.md) | [渠道服 Channel](Channel/1.14.2.345.md)
 
 ## v1.13.3.334
-**Note: This version was only released on `Genshin Impact Google Play Launcher`.**
+### 更新模式 Update Mode
+**此版本仅在 `原神 Google Play 启动器` 推送。  
+This version is only pushed on the `Genshin Impact Google Play launcher`.**
 
 ### 更新内容 Update Details
 <details>
@@ -343,6 +370,12 @@
 ## v1.4.5.222
 ### 更新时间 Update Time
 2025-02-19
+### 更新模式 Update Mode
+**安装以下任一游戏后才推送此版本：  
+This version is only pushed if any of the following games is installed:**
+- 崩坏3 Honkai Impact 3rd
+- 崩坏：星穹铁道 Honkai: Star Rail
+
 ### 更新内容 Update Details
 <details>
 
