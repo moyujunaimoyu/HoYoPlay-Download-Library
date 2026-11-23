@@ -1,4 +1,30 @@
+## v1.20.1.392
+### 更新时间 Update Time
+
+### 更新内容 Update Details
+<details>
+
+【体验优化】
+- 优化游戏下载相关提示文案。
+
+【问题修复】
+- 修复部分场景下启动器无法正常打开的问题。
+
+[Experience Optimizations]
+- Improved the wording of game download prompts.
+
+[Bug Fixes]
+- Fixed an issue that prevented HoYoPlay from opening properly in certain situations.
+
+</details>
+
+### 下载 Download
+[国服 CN](CN/1.20.1.392.md) | [国际服 Global](Global/1.20.1.392.md) | [渠道服 Channel](Channel/1.20.1.392.md)
+
+
 ## v1.19.0.382
+### 更新时间 Update Time
+2026-10-28
 ### 更新模式 Update Mode
 **安装以下任一游戏后才推送此版本：  
 This version is only pushed if any of the following games is installed:**
